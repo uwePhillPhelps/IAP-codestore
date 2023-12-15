@@ -18,4 +18,4 @@ You may use standard git / github features to (for example) tag your stored file
 
 ## More information
 
-Read more about standard git / github features on the <a href="https://docs.github.com/en/>github documentation website</a> and of course you may read step-by-step instructions as part of the <a href="https://github.com/uwePhillPhelps/IAP-2023/">Introductory Audio Programming (IAP)</a> tutorial materials.
+Read more about standard git / github features on the <a href="https://docs.github.com/en/">github documentation website</a> and of course you may read step-by-step instructions as part of the <a href="https://github.com/uwePhillPhelps/IAP-2023/">Introductory Audio Programming (IAP)</a> tutorial materials.
