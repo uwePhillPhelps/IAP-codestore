@@ -6,9 +6,11 @@ A simple way to proceed is to
 
 1. make your own github account by <a href="https://github.com/signup">signing up</a>.
 
-1. use github to <a href="../../fork/">*fork* your own copy of this repository</a> for your own github account
+1. use github to make your own copy of this repository for your own github account
 
-1. use github to *commit* your `IAP.h` and `IAP.cpp` files (in your own copy of this repository) as you create and work
+1. use github to *commit* your `IAP.h` and `IAP.cpp` files (in your own copy of this repository)
+   - replace the template starting point files with your versions as you create and update your work
+   - describe each of your updates with *commit messages* to help you find your work later
    
 ## Benefits
 
